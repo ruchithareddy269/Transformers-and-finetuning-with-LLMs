@@ -15,7 +15,8 @@ The second part of the assignment requires recreating the "Textbooks Are All You
 
 ## List of Deliverables
 
-1. [Medium Article](): Medium article explaining the implementation of NanoGPT.
-2. [Video Presentation Link](): Link to the video presentation explaining the code for both parts A and B.
+1. Output.pt: https://drive.google.com/file/d/18nArc4Hczcd8890sl3-BSCNuoL21z643/view?usp=sharing
+2.  [Medium Article](https://medium.com/@ruchithareddy_koluguri/exploring-nanogpt-building-a-shakespeare-inspired-text-generator-e2a7b84c7cde): Medium article explaining the implementation of NanoGPT.
+3. [Video Presentation Link](https://drive.google.com/drive/u/0/folders/1I31WeI4ZQLM-Fwwd4PaPeBMiYNmFPB_e): Link to the video presentation explaining the code for both parts A and B.
 
 
